@@ -1,4 +1,4 @@
-# Login UI
+# ☸️ login-ui
 
 Swift & UIKit 기반의 로그인 화면 UI 구현 프로젝트입니다.
 
@@ -19,7 +19,7 @@ Swift & UIKit 기반의 로그인 화면 UI 구현 프로젝트입니다.
 
 <br />
 
-## 디자인 시안
+## 🖌️ 디자인 시안
 [디자인 시안 링크](https://www.freepik.com/premium-vector/various-login-screens-mobile-app_24411966.htm#fromView=search&page=3&position=16&uuid=6b2efd44-a3d5-4903-92f4-686eef54a4f3&query=login+mobile+ui)
 
 <br />
